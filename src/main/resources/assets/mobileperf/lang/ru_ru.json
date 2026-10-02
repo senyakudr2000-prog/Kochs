@@ -1,0 +1,14 @@
+{
+  "mobileperf.page": "Mobile Perf",
+  "mobileperf.group.particles": "Частицы",
+  "mobileperf.group.entities": "Сущности",
+  "mobileperf.opt.particle_cull.name": "Отсекать далёкие частицы",
+  "mobileperf.opt.particle_cull.tooltip": "Частицы дальше указанной дистанции вообще не создаются.",
+  "mobileperf.opt.particle_dist.name": "Макс. дистанция частиц",
+  "mobileperf.opt.particle_dist.tooltip": "Дистанция в блоках, дальше которой новые частицы пропускаются.",
+  "mobileperf.opt.entity_cull.name": "Отсекать далёкие сущности",
+  "mobileperf.opt.entity_cull.tooltip": "Сущности дальше указанной дистанции не рисуются. Игроки и боссы рисуются всегда.",
+  "mobileperf.opt.entity_dist.name": "Макс. дистанция сущностей",
+  "mobileperf.opt.entity_dist.tooltip": "Дистанция в блоках, дальше которой сущности не рисуются.",
+  "mobileperf.blocks": "%s бл."
+}
